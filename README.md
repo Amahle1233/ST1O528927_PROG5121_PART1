@@ -1,8 +1,8 @@
 # ST1O528927_PROG5121_PART1
-## Amahle Dyani
-## ST10528927
-## chartapp PoE (Prog)
-## Rosebank College
+### Amahle Dyani
+### ST10528927
+### chartapp PoE (Prog)
+### Rosebank College
 
 ## Destription:
 Chartapp is a java based application made to handle a users registration and login.
