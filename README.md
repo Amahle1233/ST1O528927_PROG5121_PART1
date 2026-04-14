@@ -1,7 +1,7 @@
 # ST1O528927_PROG5121_PART1
 ### Amahle Dyani
 ### ST10528927
-### chartapp PoE (Prog)
+### chartapp POE (Prog)
 ### Rosebank College
 
 ## Destription:
